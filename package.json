@@ -18,5 +18,8 @@
     "@nuxt/types": "^2.18.1",
     "patch-package": "^8.0.0",
     "postinstall-postinstall": "^2.1.0"
+  },
+  "override": {
+    "vue": "latest"
   }
 }
